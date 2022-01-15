@@ -203,12 +203,7 @@ header a{
     
 }
 
-header a:hover:not(#list a){
 
-    color: var(--c-or);
-   
-
-}
 
 #rowMain{
 
