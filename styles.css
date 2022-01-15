@@ -7,11 +7,11 @@
     
 }
 
-*{
+ *{
 
     cursor: unset;
 
-}
+} 
 /**********************GENERAL***********************************/
 
 body{
@@ -25,6 +25,7 @@ body{
     align-items: center;
     font-family: fantasy;
     font-weight: bolder;
+    cursor: unset;
     
     
 }
@@ -340,7 +341,7 @@ main > div{
     justify-content: center;
     color: var(--c-or);
     background-color: #444;
-    width: 5em;
+    width: 4em;
     height: 3em;
     border-radius: 2%;
     font-size: xx-large;
@@ -351,7 +352,7 @@ main > div{
     inset 1px 1px 8px #222,
     inset 5px 1px 3px rgb(28, 25, 25),
     inset -3px -3px 2px rgb(176, 176, 176);
-    transform: translate(150%, 100%);
+    transform: translate(210%, 100%);
 
 }
 
@@ -511,7 +512,7 @@ main > div{
         justify-content: center;
         color: var(--c-or);
         background-color: #444;
-        width: 5em;
+        width: 4em;
         height: 3em;
         border-radius: 2%;
         font-size: xx-large;
@@ -522,7 +523,7 @@ main > div{
         inset 1px 1px 8px #222,
         inset 6px 6px 4px #333,
         inset -3px -3px 2px rgb(176, 176, 176);
-        transform: translate(125%, 100%);
+        transform: translate(180%, 100%);
     
     }
 
